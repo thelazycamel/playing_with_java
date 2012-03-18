@@ -1,0 +1,13 @@
+Just some java files to see how java works
+to run, compile first:
+
+javac HelloWorldApp.java
+
+this will compile into a class file, then run it by
+
+java HelloWorldApp
+
+And to run the Volcano Robot app, just run the following from the command line:
+
+javac VolcanoApplication.java
+java VolcanoApplication
